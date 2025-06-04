@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Julian McCorkle</h1>
-<h3 align="center">A fullstack developer from Atlanta Georgia</h3>
+<h1 align="left">Hi 👋, I'm Julian McCorkle</h1>
+<h3 align="left">A fullstack developer from Atlanta Georgia</h3>
 
 - 🔭 I’m currently working on [Jooha Hair](https://jooha-hair.vercel.app/)
 
