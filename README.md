@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI embeddings**
 
-- 👨‍💻 All of my projects are available at [https://julianmccorkle.vercel.app/](https://julianmccorkle.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://julian-mccorkle.vercel.app/](https://julian-mccorkle.vercel.app/)
 
 - 📫 How to reach me **julianmoet1@gmail.com**
 
